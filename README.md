@@ -1,2 +1,2 @@
-# lightspeed-walmart-integration
-Connect Lightspeed with Walmart using SKUPlugs to sync inventory, automate orders, and grow multichannel sales easily.
+# Lightspeed Walmart Integration
+SKUPlugs enables seamless [**integration between Lightspeed and Walmart**](https://skuplugs.com/lightspeed-walmart-integration/), helping retailers automate inventory, orders, and product listings. This integration eliminates manual work and ensures real-time synchronization across platforms. Retailers can manage both in-store and online operations from a single system, improving efficiency and accuracy. With SKUPlugs, businesses can expand their reach on Walmart Marketplace while maintaining full control over their Lightspeed POS operations.
